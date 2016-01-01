@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.soulchavez.memorama" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Principiante"
+            android:label="@string/title_activity_principiante"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Medio"
+            android:label="@string/title_activity_medio"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Experto"
+            android:label="@string/title_activity_experto"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Niveles"
+            android:label="@string/title_activity_niveles" >
+        </activity>
+        <activity
+            android:name=".Puntajes"
+            android:label="@string/title_activity_puntajes" >
+        </activity>
+
+
+        <activity
+            android:name=".MenuPrincipal"
+            android:label="@string/title_activity_menu_principal" >
+        </activity>
+    </application>
+
+</manifest>

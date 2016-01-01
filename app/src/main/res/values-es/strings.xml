@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memorama</string>
+
+    <string name="jugar">Jugar</string>
+    <string name="puntos">Puntaje</string>
+    <string name="nivel">Nivel</string>
+    <drawable name="cartas">@drawable/d2</drawable>
+    <string name="temas">Temas</string>
+    <string name="action_settings">Configuración</string>
+    <string name="tema1">Animales</string>
+    <drawable name="titulopal">@drawable/tituloespanol</drawable>
+    <drawable name="tituloniv">@drawable/tituloniveles</drawable>
+    <drawable name="titulosco">@drawable/titulopuntajes</drawable>
+    <string name="nivel1">Fácil</string>
+    <string name="nivel2">Medio</string>
+    <string name="nivel3">Experto</string>
+    <string name="tema2">Frutas</string>
+    <string name="title_activity_principiante">Principiante</string>
+    <string name="title_activity_medio">Medio</string>
+    <string name="title_activity_experto">Experto</string>
+    <string name="title_activity_niveles">Niveles</string>
+    <string name="title_activity_puntajes">Puntajes</string>
+    <string name="wintext1">¡Felicidades, ganaste! Se añadió 1 punto</string>
+    <string name="wintext2">¡Felicidades, ganaste! Se añadieron 3 puntos</string>
+    <string name="wintext3">¡Felicidades, ganaste! Se añadieron 5 puntos</string>
+
+    <string name="playagain">¿Deseas jugar de Nuevo?</string>
+    <string name="playagaintitle">Jugar de Nuevo</string>
+    <string name="aceptar">Sí</string>
+    <string name="cancelar">No</string>
+    <string name="nuevonivel">¡Has desbloqueado un nuevo nivel!</string>
+    <string name="titulonuevonivel">Nuevo Nivel!:)</string>
+    <drawable name="c1">@drawable/carta1a</drawable>
+    <drawable name="c2">@drawable/carta2a</drawable>
+    <drawable name="c3">@drawable/carta3a</drawable>
+    <drawable name="c4">@drawable/carta4a</drawable>
+    <drawable name="c5">@drawable/carta5a</drawable>
+    <drawable name="c6">@drawable/carta6a</drawable>
+    <drawable name="c7">@drawable/carta7a</drawable>
+    <drawable name="c8">@drawable/carta8a</drawable>
+    <drawable name="c9">@drawable/carta9a</drawable>
+    <drawable name="c10">@drawable/carta10a</drawable>
+    <drawable name="c11">@drawable/carta11a</drawable>
+    <drawable name="c12">@drawable/carta12a</drawable>
+    <drawable name="c13">@drawable/carta13a</drawable>
+    <drawable name="c14">@drawable/carta14a</drawable>
+    <drawable name="c15">@drawable/carta15a</drawable>
+
+
+
+
+    <string name="title_activity_menu">Menu</string>
+</resources>
